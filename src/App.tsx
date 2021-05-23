@@ -10,7 +10,7 @@ function App() {
   return (
       <Provider store={store}>
         <div className="App">
-          <header className="App-header">
+          <header className="bg-gray-800 flex p-6 justify-center">
             <img src={logo}
                  className="App-logo"
                  alt="logo"/>
